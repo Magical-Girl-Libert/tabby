@@ -194,6 +194,7 @@ profiles:
       env:
         TERM: xterm-color
         COLORTERM: truecolor
+      args: []
     type: local
     id: local:custom:b85a1e32-7b68-4d62-b9b2-2d0779dae587
 recoverTabs: false
